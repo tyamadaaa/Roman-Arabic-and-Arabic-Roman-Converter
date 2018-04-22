@@ -29,3 +29,5 @@ For example to convert XXII into Arabic number, enter XXII in the IDLE Shell. Th
 <img width="567" alt="convert_roman_arabic2" src="https://user-images.githubusercontent.com/37702849/39094388-155a9a46-4661-11e8-8203-8fe9d34b9e05.png">
 
 # Installation 
+
+Download the python file found in repository.
