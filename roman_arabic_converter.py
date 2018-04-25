@@ -49,7 +49,7 @@ def arabictoroman(convert):
 def romantoarabic(convert):
 
     subtract = [] #The numbers to be subtracted are stored here
-    new_output = [] #
+    new_output = [] #Finalized list of numbers
 
     #A dictionary with roman numerals corresponding to arabic numbers
     arabic = {"I":1, "V":5, "X":10, "L":50, "C":100, "D":500, "M":1000}
