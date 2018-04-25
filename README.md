@@ -30,4 +30,4 @@ For example to convert XXII into Arabic number, enter XXII in the IDLE Shell. Th
 
 # Installation 
 
-Download the python file found in repository.
+Download the python file "roman_arabic_converter.py" found in repository and run the program using IDLE 3.6.1.
